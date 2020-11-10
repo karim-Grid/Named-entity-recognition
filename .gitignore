@@ -1,0 +1,9 @@
+# Don't track content of these folders
+models/
+.idea/
+logdir/
+
+
+*.pyc
+*.txt
+*.py
